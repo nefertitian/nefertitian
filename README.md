@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nefertitian aka ali mohammed
 - 👀 I’m interested in most things technology related 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on whatever I find interesting and if I have the time for me
+- 🌱 I’m currently learning ..., well I am always learning something new
+- 💞️ I’m looking to collaborate on whatever I find interesting and if I have the time for it.
 - 📫 Best way to reach out to me is via email if you have my email address
 
 <!---
